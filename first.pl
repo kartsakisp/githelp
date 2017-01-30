@@ -4,4 +4,4 @@ use 5.14.0;
 use strict;
 use warnings;
 
-print "Hello World!";
+say "Hello World!";
